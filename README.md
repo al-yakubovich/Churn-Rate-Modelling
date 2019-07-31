@@ -10,14 +10,14 @@ Our goal for this task is to create a geodemographic segmentation model to tell 
 
 
 
-# Supervised Learning task:
+## Supervised Learning task:
 
 We are given labeled training data (e.g. we already know which customers left);
 
-# Classification task:
+## Classification task:
 
 Our algorithm is expected to assign a binary value to each client indicating the probability of him leaving or staying with the bank.
 
-# Plain batch learning: 
+## Plain batch learning: 
 
 Since there is no continuous flow of data coming into our system, there is no particular need to adjust to changing data rapidly, and the data is small enough to fit in memory, so plain batch learning should work.
