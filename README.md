@@ -9,6 +9,7 @@ Our goal for this task is to create a geodemographic segmentation model to tell 
 
 
 
+
 Supervised Learning task:
 
 We are given labeled training data (e.g. we already know which customers left);
