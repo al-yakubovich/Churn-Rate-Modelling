@@ -20,4 +20,4 @@ Our algorithm is expected to assign a binary value to each client indicating the
 
 ## Plain batch learning: 
 
-Since there is no continuous flow of data coming into our system, there is no particular need to adjust to changing data rapidly, and the data is small enough to fit in memory, so plain batch learning should work.
+Since there is no continuous flow of data coming into our system, there is no particular need to adjust to changing data rapidly, and the data is small enough to fit in memory, so plain batch learning should work
