@@ -5,7 +5,7 @@ This is an international Bank with millions of customers spread all around Europ
 
 For six months they followed the behaviour of these 10,000 customers and analysed which stayed and who left the bank. Therefore, they want us to develop a model that can measure the probability of a customer leaving the bank.
 
-Our goal for this task is to create a geodemographic segmentation model to tell the bank which of the customers are at higher risk to leave.
+Our goal for this task is to create a geodemographic segmentation model to tell the bank which of the customers are at higher risk to leave
 
 
 
